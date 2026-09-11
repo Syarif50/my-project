@@ -34,10 +34,10 @@ const products = [
 export default function Home() {
   return (
     <>
-      {/* HERO */}
+    
       <HeroSection />
 
-      {/* KATEGORI */}
+      
       <section className="section">
 
         <SectionTitle
