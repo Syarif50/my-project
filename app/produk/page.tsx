@@ -12,7 +12,7 @@ const products = [
   },
   {
     id: 2,
-    name: "Kelengkeng Organik",
+    name: "Kelengkeng Raja",
     image: "/images/kelengkeng-organik.jpg",
     price: 45000,
     weight: "500 gram",
