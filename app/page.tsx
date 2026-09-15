@@ -15,7 +15,7 @@ const products = [
   },
   {
     id: 2,
-    name: "Kelengkeng Organik",
+    name: "Kelengkeng raja",
     image: "/images/kelengkeng-organik.jpg",
     price: 45000,
     weight: "500 gram",
@@ -34,7 +34,7 @@ const products = [
 export default function Home() {
   return (
     <>
-    
+      
       <HeroSection />
 
       
